@@ -1,1 +1,1 @@
-print("2") 
+adsprint("2") 
