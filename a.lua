@@ -1,1 +1,1 @@
-ffadsprint("2") 
+ffrint("2") 
